@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Clothes A-301",
+    "price": 100000,
+    "category": "clothes",
+    "image": "image/store/clothes-01.png"
+  },
+  {
+    "name": "Clothes B-302",
+    "price": 100000,
+    "category": "clothes",
+    "image": "image/store/clothes-02.png"
+  },
+  {
+    "name": "Clothes C-303",
+    "price": 100000,
+    "category": "clothes",
+    "image": "image/store/clothes-03.png"
+  },
+  {
+    "name": "Trousers A-301",
+    "price": 150000,
+    "category": "trousers",
+    "image": "image/store/trousers-01.png"
+  },
+  {
+    "name": "Trousers B-302",
+    "price": 150000,
+    "category": "trousers",
+    "image": "image/store/trousers-02.png"
+  },
+  {
+    "name": "Trousers C-303",
+    "price": 150000,
+    "category": "trousers",
+    "image": "image/store/trousers-03.png"
+  },
+  {
+    "name": "Rings A-301",
+    "price": 50000,
+    "category": "accessories",
+    "image": "image/store/accessories-01.png"
+  },
+  {
+    "name": "Watches B-302",
+    "price": 50000,
+    "category": "accessories",
+    "image": "image/store/accessories-02.png"
+  },
+  {
+    "name": "Bracelet C-303",
+    "price": 50000,
+    "category": "accessories",
+    "image": "image/store/accessories-03.png"
+  }
+]
